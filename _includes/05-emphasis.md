@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Some of my attributes are:__
+*I know some c++ and some JS*
+**I'm a fast learner**
+_I speak three languages (English, Russian, and Hebrew)_
